@@ -1,0 +1,29 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .card{
+    margin: 10px;
+    flex:5;
+}
+
+.button{
+    margin: 25px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+}
+
+.button:hover{
+    background-color: blue;
+
+}
+.button:active{
+    box-shadow: 20px 20px black;
+}
+.button a{
+    text-decoration: none;
+    color: black;
+}

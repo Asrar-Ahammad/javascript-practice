@@ -1,0 +1,17 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+    color:aliceblue;
+}
+
+.text-black{
+    color:black
+}
