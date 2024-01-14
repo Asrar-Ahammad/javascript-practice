@@ -12,3 +12,4 @@ setTimeout(function () {
 
 console.log("My name is " + "Asrar")
 console.log(promise)
+
